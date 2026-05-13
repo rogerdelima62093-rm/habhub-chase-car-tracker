@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chase Car Tracker</string>
+    <string name="author_url">http://pexat.com</string>
+       
+    <string name="service_name">Chase Car Service</string>
+    <string name="service_notification">Chase Car Tracker Running</string>
+    <string name="service_notification_title">Chase Car Tracker</string>
+    
+    <string name="main_label_latitude">Latitude</string>
+    <string name="main_label_longitude">Longitude</string>
+    <string name="main_label_altitude">Altitude</string>
+    <string name="main_label_speed">Speed</string>
+    <string name="main_label_callsign">Callsign</string>
+    <string name="main_label_last_updated">Last Updated</string>
+    <string name="main_button_toggle">Start Tracker</string>
+
+    <string name="about_title">About</string>
+    
+</resources>
